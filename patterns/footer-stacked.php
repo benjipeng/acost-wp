@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer with heading, text, button.
- * Slug: frost/footer-stacked
+ * Slug: acost-wp/footer-stacked
  * Categories: footer
  * Block Types: core/template-part/footer
  */

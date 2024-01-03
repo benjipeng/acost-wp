@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Box with image, heading, text, button.
- * Slug: frost/product-box
+ * Slug: acost-wp/product-box
  * Categories: call-to-action
  */
 ?>

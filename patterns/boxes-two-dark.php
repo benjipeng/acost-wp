@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Boxes with heading, text, button.
- * Slug: frost/boxes-two-dark
+ * Slug: acost/boxes-two-dark
  * Categories: featured
  */
 ?>

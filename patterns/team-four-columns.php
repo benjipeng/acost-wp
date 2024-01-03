@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Team with image, text, link.
- * Slug: frost/team-four-columns
+ * Slug: acost-wp/team-four-columns
  * Categories: featured
  */
 ?>

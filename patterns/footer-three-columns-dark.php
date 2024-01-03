@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer with text, links, buttons.
- * Slug: frost/footer-three-columns-dark
+ * Slug: acost-wp/footer-three-columns-dark
  * Categories: footer
  * Block Types: core/template-part/footer
  */

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Portfolio with heading, text, images.
- * Slug: frost/portfolio
+ * Slug: acost-wp/portfolio
  * Categories: featured
  */
 ?>

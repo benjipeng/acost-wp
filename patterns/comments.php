@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Comments section and form
- * Slug: frost/comments
+ * Slug: acost-wp/comments
  * Inserter: no
  */
 ?>

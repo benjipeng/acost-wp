@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Sample pricing page.
- * Slug: frost/page-pricing
+ * Slug: acost-wp/page-pricing
  * Categories: page
  */
 ?>

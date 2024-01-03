@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Sample about page.
- * Slug: frost/page-about
+ * Slug: acost-wp/page-about
  * Categories: page
  */
 ?>

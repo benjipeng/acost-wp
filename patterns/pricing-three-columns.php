@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Pricing table with heading, list, buttons.
- * Slug: frost/pricing-three-columns
+ * Slug: acost-wp/pricing-three-columns
  * Categories: pricing
  */
 ?>

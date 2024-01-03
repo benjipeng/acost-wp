@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Sample link page.
- * Slug: frost/page-link
+ * Slug: acost-wp/page-link
  * Categories: page
  */
 ?>

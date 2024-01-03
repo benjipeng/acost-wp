@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: List of posts in one column.
- * Slug: frost/posts
+ * Slug: acost-wp/posts
  * Categories: posts
  * Block Types: core/query
  */

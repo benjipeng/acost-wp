@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Call-to-action with text, button.
- * Slug: frost/cta-stacked-dark
+ * Slug: acost-wp/cta-stacked-dark
  * Categories: call-to-action
  */
 ?>

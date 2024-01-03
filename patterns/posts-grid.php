@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Grid of posts in three columns.
- * Slug: frost/posts-grid
+ * Slug: acost-wp/posts-grid
  * Categories: posts
  * Block Types: core/query
  */

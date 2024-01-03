@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer with text, button, links.
- * Slug: frost/footer-mega-dark
+ * Slug: acost-wp/footer-mega-dark
  * Categories: footer
  * Block Types: core/template-part/footer
  */

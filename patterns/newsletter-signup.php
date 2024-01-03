@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Box with heading, text.
- * Slug: frost/newsletter-signup
+ * Slug: acost-wp/newsletter-signup
  * Categories: call-to-action
  */
 ?>

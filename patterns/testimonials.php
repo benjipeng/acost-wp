@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Testimonials with text.
- * Slug: frost/testimonials
+ * Slug: acost-wp/testimonials
  * Categories: testimonials
  */
 ?>

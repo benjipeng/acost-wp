@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header notification bar with text, button.
- * Slug: frost/header-notification-bar
+ * Slug: acost-wp/header-notification-bar
  * Categories: header
  * Block Types: core/template-part/header
  */

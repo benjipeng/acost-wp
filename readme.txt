@@ -1,5 +1,5 @@
-=== Frost ===
-Contributors: wpengine, bgardner
+=== ACost-WP ===
+Contributors: wpengine, bgardner, benjipeng
 Requires at least: 6.4
 Tested up to: 6.4
 Requires PHP: 7.0

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Progres bars with text, spacers.
- * Slug: frost/progress-bars
+ * Slug: acost-wp/progress-bars
  * Categories: featured
  */
 ?>
