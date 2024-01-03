@@ -11,10 +11,10 @@
 <!-- wp:group {"align":"wide","layout":{"type":"flex","allowOrientation":false,"justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide">
 <!-- wp:paragraph -->
-<p>&copy; <?php echo esc_html( gmdate( 'Y' ) ); ?> <?php echo esc_html__( 'Your Company LLC', 'frost' ); ?></p>
+<p>&copy; <?php echo esc_html( gmdate( 'Y' ) ); ?> <?php echo esc_html__( 'Your Company LLC', 'acost' ); ?></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p><a href="#"><?php echo esc_html__( 'Privacy Policy', 'frost' ); ?></a> · <a href="#"><?php echo esc_html__( 'Terms of Service', 'frost' ); ?></a> · <a href="#"><?php echo esc_html__( 'Contact Us', 'frost' ); ?></a></p>
+<p><a href="#"><?php echo esc_html__( 'Privacy Policy', 'acost' ); ?></a> · <a href="#"><?php echo esc_html__( 'Terms of Service', 'acost' ); ?></a> · <a href="#"><?php echo esc_html__( 'Contact Us', 'acost' ); ?></a></p>
 <!-- /wp:paragraph -->
 <!-- wp:social-links {"iconColor":"base","iconColorValue":"#fff","iconBackgroundColor":"contrast","iconBackgroundColorValue":"#000","style":{"spacing":{"blockGap":"10px"}},"className":"is-style-default"} -->
 <ul class="wp-block-social-links has-icon-color has-icon-background-color is-style-default">

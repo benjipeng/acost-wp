@@ -10,10 +10,10 @@
 <div class="wp-block-columns are-vertically-aligned-bottom is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"bottom","width":"100%","style":{"spacing":{"blockGap":"0"}}} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:100%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"},"fontSize":"small"} -->
 <div class="wp-block-group has-small-font-size"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Item #1', 'frost' ); ?></p>
+<p><?php echo esc_html__( 'Item #1', 'acost' ); ?></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( '100%', 'frost' ); ?></p>
+<p><?php echo esc_html__( '100%', 'acost' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 <!-- wp:group {"backgroundColor":"contrast","layout":{"type":"constrained"}} -->
@@ -34,10 +34,10 @@
 <div class="wp-block-columns are-vertically-aligned-bottom is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"bottom","width":"90%","style":{"spacing":{"blockGap":"0"}}} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:90%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"},"fontSize":"small"} -->
 <div class="wp-block-group has-small-font-size"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Item #2', 'frost' ); ?></p>
+<p><?php echo esc_html__( 'Item #2', 'acost' ); ?></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( '90%', 'frost' ); ?></p>
+<p><?php echo esc_html__( '90%', 'acost' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 <!-- wp:group {"backgroundColor":"contrast","layout":{"type":"constrained"}} -->
@@ -58,10 +58,10 @@
 <div class="wp-block-columns are-vertically-aligned-bottom is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"bottom","width":"80%","style":{"spacing":{"blockGap":"0"}}} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:80%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"},"fontSize":"small"} -->
 <div class="wp-block-group has-small-font-size"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Item #3', 'frost' ); ?></p>
+<p><?php echo esc_html__( 'Item #3', 'acost' ); ?></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( '80%', 'frost' ); ?></p>
+<p><?php echo esc_html__( '80%', 'acost' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 <!-- wp:group {"backgroundColor":"contrast","layout":{"type":"constrained"}} -->
@@ -82,10 +82,10 @@
 <div class="wp-block-columns are-vertically-aligned-bottom is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"bottom","width":"70%","style":{"spacing":{"blockGap":"0"}}} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:70%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"},"fontSize":"small"} -->
 <div class="wp-block-group has-small-font-size"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Item #4', 'frost' ); ?></p>
+<p><?php echo esc_html__( 'Item #4', 'acost' ); ?></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( '70%', 'frost' ); ?></p>
+<p><?php echo esc_html__( '70%', 'acost' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 <!-- wp:group {"backgroundColor":"contrast","layout":{"type":"constrained"}} -->
@@ -106,10 +106,10 @@
 <div class="wp-block-columns are-vertically-aligned-bottom is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"bottom","width":"60%","style":{"spacing":{"blockGap":"0"}}} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:60%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"},"fontSize":"small"} -->
 <div class="wp-block-group has-small-font-size"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Item #5', 'frost' ); ?></p>
+<p><?php echo esc_html__( 'Item #5', 'acost' ); ?></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( '60%', 'frost' ); ?></p>
+<p><?php echo esc_html__( '60%', 'acost' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 <!-- wp:group {"backgroundColor":"contrast","layout":{"type":"constrained"}} -->
@@ -130,10 +130,10 @@
 <div class="wp-block-columns are-vertically-aligned-bottom is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"bottom","width":"50%","style":{"spacing":{"blockGap":"0"}}} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:50%"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"},"fontSize":"small"} -->
 <div class="wp-block-group has-small-font-size"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Item #6', 'frost' ); ?></p>
+<p><?php echo esc_html__( 'Item #6', 'acost' ); ?></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( '50%', 'frost' ); ?></p>
+<p><?php echo esc_html__( '50%', 'acost' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 <!-- wp:group {"backgroundColor":"contrast","layout":{"type":"constrained"}} -->
