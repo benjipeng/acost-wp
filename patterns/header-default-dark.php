@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header with site title, navigation.
- * Slug: froacost-wpst/header-default-dark
+ * Slug: acost-wp/header-default-dark
  * Categories: header
  * Block Types: core/template-part/header
  */

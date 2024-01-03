@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Boxes with heading, text, button.
- * Slug: acost/boxes-two
+ * Slug: acost-wp/boxes-two
  * Categories: featured
  */
 ?>
