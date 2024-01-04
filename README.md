@@ -4,7 +4,7 @@ ACost is a flavor or `Frost`
 
 The ultimate WordPress theme for website builders.
 
-![Frost WordPress Theme](https://user-images.githubusercontent.com/486261/224737575-6045a830-6ef7-4551-a887-82d6228b1530.jpg)
+![Frost WordPress Theme](https://raw.githubusercontent.com/benjipeng/acost-wp/trunk/screenshot.png)
 
 ## About
 
