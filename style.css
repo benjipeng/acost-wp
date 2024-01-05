@@ -34,7 +34,7 @@ input[type="button"],
 input[type="submit"],
 textarea:focus,
 .wp-element-button {
-  transition: all 0.2s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 a,
@@ -167,6 +167,17 @@ textarea {
   /* -- Columns -- */
 
   .is-style-columns-reverse {
+    flex-direction: column-reverse;
+  }
+}
+
+/*------------------------------------------*/
+/* The following are more customized 
+/* CSS classes making theme tweaking easier
+/*------------------------------------------*/
+
+@media only screen and (max-width: 788px) {
+  .flex-mobile-reverse-order {
     flex-direction: column-reverse;
   }
 }
