@@ -17,6 +17,9 @@ Text Domain: acost-wp
 /* Defaults
 ---------------------------------------- */
 
+/* conveniently import an ONLINE font */
+@import url("https://use.typekit.net/imp2jke.css");
+
 *,
 *::before,
 *::after {

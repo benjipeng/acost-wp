@@ -180,6 +180,11 @@
       "fluid": true,
       "fontFamilies": [
         {
+          "fontFamily": "stolzl, Arial, sans-serif",
+          "slug": "stolzl",
+          "name": "Headings - Stolzl"
+        },
+        {
           "fontFamily": "Outfit, sans-serif",
           "name": "Outfit",
           "slug": "primary",
@@ -582,6 +587,8 @@
       },
       "h1": {
         "typography": {
+          "fontFamily": "var(--wp--preset--font-family--stolzl)",
+          "fontWeight": "700",
           "fontSize": "var(--wp--preset--font-size--max-36)"
         }
       },
